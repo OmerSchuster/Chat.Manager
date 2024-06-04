@@ -1,0 +1,9 @@
+﻿  main.cpp
+E:\dev\ChatApp\Chat.Server\Chat.Server\main.cpp(37,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\dev\ChatApp\Chat.Server\Chat.Server\main.cpp(103,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\dev\ChatApp\Chat.Server\Chat.Server\main.cpp(167,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\dev\ChatApp\Chat.Server\Chat.Server\main.cpp(179,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\dev\ChatApp\Chat.Server\Chat.Server\main.cpp(267,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\dev\ChatApp\Chat.Server\Chat.Server\main.cpp(57,1): warning C4715: 'ParseCommand': not all control paths return a value
+E:\dev\ChatApp\Chat.Server\Chat.Server\RoomInfo.h(35,1): warning C4172: returning address of local variable or temporary
+  Chat.Server.vcxproj -> E:\dev\ChatApp\Chat.Server\x64\Debug\Chat.Server.exe
